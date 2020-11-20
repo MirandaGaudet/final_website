@@ -6155,7 +6155,7 @@ button.bg-danger:focus {
   background-color: #bd2130 !important;
 }
 
-.bg-light {
+bg-light {
   background-color: #9D99C2 !important;
 }
 
@@ -10014,14 +10014,14 @@ p {
              }
 .page-section1 {
   padding: 6rem 0;
-  background-color: #C7E3E6;
+  background-color: #B4E7CE;
 }
 .page-section1 h2.section-heading {
   font-size: 3rem;
   margin-top: 0;
   margin-bottom: 1rem;
 color: #fff;
-  background-color: #C7E3E6;
+  background-color: #B4E7CE;
 
 }
 .page-section1 h3.section-subheading {
@@ -10065,6 +10065,7 @@ font-weight: bolder;
 }
 .page-section3 {
   padding: 6rem 0;
+  background-color: #E0C2FF;
 }
 .page-section3 h2.section-heading {
   font-size: 3rem;
@@ -10099,6 +10100,7 @@ font-weight: bolder;
 }
 .page-section5 {
   padding: 6rem 0;
+  background-color: #D6E3F8;
 
 }
 .page-section5 h2.section-heading {
@@ -10538,8 +10540,10 @@ header.masthead .masthead-heading {
   margin-bottom: 0;
 }
 
+
 section#contact {
-  background-color: #B3C0D0;
+  background-image: url("../assets/img/map-image.png");
+  background-color: #B5BEC6;
 }
 section#contact .section-heading {
   color: #fff;
